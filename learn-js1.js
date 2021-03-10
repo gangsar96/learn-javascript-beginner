@@ -1,0 +1,1 @@
+console.log("yang asik aja ")
